@@ -1,0 +1,9 @@
+# Competition data is private — never commit it
+data/*
+!data/README.md
+*.csv
+features/
+*.npy
+.ipynb_checkpoints/
+__pycache__/
+.venv/
